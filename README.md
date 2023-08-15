@@ -3,9 +3,9 @@
 Sometimes Roblox, sometimes Linux, sometimes everything...
 
 <div id="badges">
-  <a href="https://www.youtube.com/@owldingle4530">
+  <!--<a href="https://www.youtube.com/@owldingle4530">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a>--->
   <img src="https://komarev.com/ghpvc/?username=depthso&style=flat-square&color=blue" style="height:28px" alt=""/>
 </div>
 
